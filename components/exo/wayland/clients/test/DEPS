@@ -1,5 +1,0 @@
-specific_include_rules = {
-  "run_all_client_perftests\.cc": [
-    "+mojo/edk/embedder/embedder.h",
-  ],
-}

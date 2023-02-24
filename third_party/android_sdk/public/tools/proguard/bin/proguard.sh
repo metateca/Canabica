@@ -1,1 +1,0 @@
-../../../../../../../.cipd/pkgs/85/_current/tools/proguard/bin/proguard.sh

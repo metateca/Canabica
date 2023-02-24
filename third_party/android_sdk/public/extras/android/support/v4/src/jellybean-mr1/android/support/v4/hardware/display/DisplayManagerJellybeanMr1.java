@@ -1,1 +1,0 @@
-../../../../../../../../../../../../../../../.cipd/pkgs/80/_current/extras/android/support/v4/src/jellybean-mr1/android/support/v4/hardware/display/DisplayManagerJellybeanMr1.java

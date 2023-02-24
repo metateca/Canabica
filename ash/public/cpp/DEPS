@@ -1,5 +1,0 @@
-include_rules = [
-  "+components/prefs",
-  "+skia/public/interfaces",
-  "+ui/display",
-]

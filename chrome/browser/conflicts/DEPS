@@ -1,3 +1,0 @@
-include_rules = [
-  "+chrome_elf/third_party_dlls",
-]

@@ -1,6 +1,0 @@
-include_rules = [
-  "+services/service_manager",
-  "+mojo/public",
-  "+skia",
-  "+third_party/skia/include",
-]

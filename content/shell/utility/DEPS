@@ -1,4 +1,0 @@
-include_rules = [
-  "+services/service_manager",
-  "+services/test/echo",
-]

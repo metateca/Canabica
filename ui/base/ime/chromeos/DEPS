@@ -1,6 +1,0 @@
-include_rules = [
-  "+chromeos/chromeos_switches.h",
-  "+chromeos/ime",
-  "+services/ui/public/cpp/input_devices",
-  "+ui/chromeos/strings",
-]

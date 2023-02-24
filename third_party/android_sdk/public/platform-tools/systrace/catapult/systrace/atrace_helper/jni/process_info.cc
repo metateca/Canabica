@@ -1,1 +1,0 @@
-../../../../../../../../../../.cipd/pkgs/82/_current/platform-tools/systrace/catapult/systrace/atrace_helper/jni/process_info.cc

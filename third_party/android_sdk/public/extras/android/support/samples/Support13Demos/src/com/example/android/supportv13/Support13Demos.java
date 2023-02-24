@@ -1,1 +1,0 @@
-../../../../../../../../../../../../../../.cipd/pkgs/80/_current/extras/android/support/samples/Support13Demos/src/com/example/android/supportv13/Support13Demos.java

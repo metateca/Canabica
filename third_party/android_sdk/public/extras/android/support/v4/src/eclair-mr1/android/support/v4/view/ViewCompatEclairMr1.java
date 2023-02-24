@@ -1,1 +1,0 @@
-../../../../../../../../../../../../../../.cipd/pkgs/80/_current/extras/android/support/v4/src/eclair-mr1/android/support/v4/view/ViewCompatEclairMr1.java

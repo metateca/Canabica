@@ -1,4 +1,0 @@
-include_rules = [
-  "+components/pwg_encoder",
-  "+components/services/pdf_compositor/public/cpp/pdf_service_mojo_utils.h",
-]

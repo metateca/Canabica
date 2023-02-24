@@ -1,6 +1,0 @@
-include_rules = [
-  "+mojo/edk/embedder",
-  "+mojo/public",
-  "+services/identity/public",
-  "+services/service_manager/public",
-]

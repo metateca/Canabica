@@ -1,5 +1,0 @@
-include_rules = [
-  # This folder contains Android-specific code.
-  "+base/android",
-  "+chrome/browser/android",
-]

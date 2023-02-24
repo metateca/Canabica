@@ -1,1 +1,0 @@
-../../../../../../../../../.cipd/pkgs/82/_current/platform-tools/systrace/catapult/systrace/profile_chrome/perf_tracing_agent.py

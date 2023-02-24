@@ -1,1 +1,0 @@
-../../../../../../../../../../../.cipd/pkgs/85/_current/tools/proguard/examples/annotations/src/proguard/annotation/KeepPublicProtectedClassMembers.java

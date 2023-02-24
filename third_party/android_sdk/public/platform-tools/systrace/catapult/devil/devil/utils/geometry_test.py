@@ -1,1 +1,0 @@
-../../../../../../../../../../.cipd/pkgs/82/_current/platform-tools/systrace/catapult/devil/devil/utils/geometry_test.py

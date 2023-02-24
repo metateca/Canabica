@@ -1,1 +1,0 @@
-../../../../../../../../../.cipd/pkgs/82/_current/platform-tools/systrace/catapult/common/lab/keychain_unlock.sh

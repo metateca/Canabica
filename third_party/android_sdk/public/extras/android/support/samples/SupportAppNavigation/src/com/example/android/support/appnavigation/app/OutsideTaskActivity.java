@@ -1,1 +1,0 @@
-../../../../../../../../../../../../../../../../.cipd/pkgs/80/_current/extras/android/support/samples/SupportAppNavigation/src/com/example/android/support/appnavigation/app/OutsideTaskActivity.java
